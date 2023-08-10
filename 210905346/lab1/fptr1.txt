@@ -1,0 +1,7 @@
+Algorithm: CopyFileContents
+Step 1: Enter the source filename.
+Step 2: Check if the file exists. If NOT, display an error message and exit from the program.
+Step 3: Enter the destination filename.
+Step 4: Read each character from the source file and write into destination file using file pointers until
+EOF character is encountered in the source file.
+Step 5: Stop
